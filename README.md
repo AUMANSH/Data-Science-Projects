@@ -6,7 +6,7 @@ https://github-profile-trophy.vercel.app/AUMANSHryo-ma&title=Stars,Followers
 
 https://github-profile-trophy.vercel.app/AUMANSHryo-ma&title=-Stars,-Followers
 
-https://github-profile-trophy.vercel.app/?username=ryo-ma&rank=S
+https://github-profile-trophy.vercel.app/?username=AUMANSHryo-ma&rank=S
 
 https://github-profile-trophy.vercel.app/?username=ryo-ma&rank=S,AAA
 
